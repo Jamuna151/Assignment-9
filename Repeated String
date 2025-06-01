@@ -20,6 +20,5 @@ public class RepeatedString {
         }
         result += count;
         System.out.println(result);
-        input.close();
     }
 }
